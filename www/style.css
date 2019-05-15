@@ -1,0 +1,106 @@
+
+.outer {
+  position: fixed;
+  top: 41px;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  overflow: hidden;
+  padding: 0;
+}
+
+/* Customize fonts */
+label, input, button, select { 
+    font-family: 'Arial Narrow';
+    font-weight: 200;
+    color: #333333;
+    font-size: 15px;
+  line-height: 1.42857143;
+  }
+
+#toppart {
+/* Appearance */
+  background-color: #009999;
+padding: 0 20px 20px 20px;
+/* Fade out while not hovering */
+  opacity: 0.1;
+zoom: 0.9;
+transition: opacity 500ms 1s;
+}
+
+ label, input, button, select {
+  font-family: 'Arial Narrow';
+  font-weight:500;
+}
+h4 {
+  font-family: 'Arial-Narrow', Arial-Narrow;
+  font-weight:400;
+}
+
+#tabDemo{
+background-color: #F6F6F6;
+  padding:20px 20px 20px 20px;
+}
+
+#tabWater {
+background-color: #3399CC;
+  padding:20px 20px 20px 20px;
+  opacity: 0.65;
+}
+
+#tabHyg {
+background-color: #009933;
+  padding:20px 20px 20px 20px;
+  opacity: 0.65;
+}
+
+#tabSan {
+background-color: #CC6633;
+  padding:20px 20px 20px 20px;
+  opacity: 0.65;
+}
+.navbar-default {
+    background-color: #58585A !important;
+}
+.navbar-nav li a{
+
+    color: #fff !important;
+}
+.navbar-nav li a:hover, .navbar-nav > .active > a {
+color: #009999 !important;
+background-color:#CCEAEA !important;
+background-image: none !important;
+}
+
+
+#toppart:hover {
+/* Fade in while hovering */
+  opacity: 0.80;
+transition-delay: 0;
+}
+
+/* Position and style citation */
+  #cite {
+  position: absolute;
+bottom: 10px;
+left: 10px;
+font-size: 12px;
+font-weight: bold;
+}
+#cite2 {
+position: relative;
+bottom: auto;
+font-size: 12px;
+font-weight: bold;
+}
+#cite3 {
+text-decoration:none;
+border:0;
+margin : 0;
+padding : 50px;
+}
+
+/* If not using map tiles, show a white background */
+  .leaflet-container {
+    background-color: white !important;
+  }

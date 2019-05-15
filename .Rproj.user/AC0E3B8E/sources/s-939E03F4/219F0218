@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1551350024391.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "292|49|383|82|\n384|54|438|179|\n",
+    "hash" : "0",
+    "id" : "219F0218",
+    "lastKnownWriteTime" : 1557925819,
+    "last_content_update" : 1557925819419,
+    "path" : "D:/Nara/Projects/WASH/WASHdashboard/ui.R",
+    "project_path" : "ui.R",
+    "properties" : {
+        "cursorPosition" : "82,67",
+        "scrollLine" : "68"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

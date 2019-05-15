@@ -1,0 +1,12 @@
+name: WASHdashboard
+title: WASHdashboard
+username:
+account: reachukraine
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 780854
+bundleId: 2086187
+url: https://reachmaps.shinyapps.io/WASHdashboard/
+when: 1557925961.13623
+asMultiple: FALSE
+asStatic: FALSE

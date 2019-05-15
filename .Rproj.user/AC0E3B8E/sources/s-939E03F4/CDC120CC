@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1551350041371.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "CDC120CC",
+    "lastKnownWriteTime" : 1557924847,
+    "last_content_update" : 1557924847716,
+    "path" : "D:/Nara/Projects/WASH/WASHdashboard/global.R",
+    "project_path" : "global.R",
+    "properties" : {
+        "cursorPosition" : "20,1",
+        "scrollLine" : "0"
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1554616644233.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "9E96746C",
+    "lastKnownWriteTime" : 1556517084,
+    "last_content_update" : 1556517084589,
+    "path" : "D:/Nara/Projects/WASH/WASHdashboard/functionsDist.R",
+    "project_path" : "functionsDist.R",
+    "properties" : {
+        "cursorPosition" : "601,0",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 5,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
