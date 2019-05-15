@@ -1,6 +1,5 @@
 
 fluidPage(tags$head(includeCSS("www/style.css")), 
-          tags$head(includeHTML(("google-analytics.html"))),
           wellPanel(style = "background: #CCEAEA;",
                     titlePanel(title = fluidRow(column(6,
                                                        div(h1("Yemen WASH Cluster Assessment", align = "left", style = "color:#009999;
